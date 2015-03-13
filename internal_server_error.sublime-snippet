@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:internal_server_error
+]]></content>
+  <tabTrigger>s500</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

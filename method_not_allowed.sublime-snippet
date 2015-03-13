@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:method_not_allowed
+]]></content>
+  <tabTrigger>s405</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

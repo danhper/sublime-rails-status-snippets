@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:use_proxy
+]]></content>
+  <tabTrigger>s305</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

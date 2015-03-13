@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:not_modified
+]]></content>
+  <tabTrigger>s304</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

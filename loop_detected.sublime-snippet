@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:loop_detected
+]]></content>
+  <tabTrigger>s508</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

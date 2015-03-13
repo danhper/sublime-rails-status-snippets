@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:variant_also_negotiates
+]]></content>
+  <tabTrigger>s506</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

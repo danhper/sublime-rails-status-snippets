@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:request_timeout
+]]></content>
+  <tabTrigger>s408</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

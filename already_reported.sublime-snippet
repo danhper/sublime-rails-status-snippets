@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:already_reported
+]]></content>
+  <tabTrigger>s208</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

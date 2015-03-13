@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:forbidden
+]]></content>
+  <tabTrigger>s403</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

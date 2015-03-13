@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:request_header_fields_too_large
+]]></content>
+  <tabTrigger>s431</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

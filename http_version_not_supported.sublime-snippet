@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:http_version_not_supported
+]]></content>
+  <tabTrigger>s505</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

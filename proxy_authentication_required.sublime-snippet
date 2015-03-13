@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:proxy_authentication_required
+]]></content>
+  <tabTrigger>s407</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

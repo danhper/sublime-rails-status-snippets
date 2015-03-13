@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:unprocessable_entity
+]]></content>
+  <tabTrigger>s422</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

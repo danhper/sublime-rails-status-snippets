@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:permanent_redirect
+]]></content>
+  <tabTrigger>s308</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

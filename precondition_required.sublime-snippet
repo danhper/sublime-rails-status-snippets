@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:precondition_required
+]]></content>
+  <tabTrigger>s428</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

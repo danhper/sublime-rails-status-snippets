@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:gone
+]]></content>
+  <tabTrigger>s410</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

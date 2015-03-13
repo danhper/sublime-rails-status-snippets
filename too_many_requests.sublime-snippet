@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:too_many_requests
+]]></content>
+  <tabTrigger>s429</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

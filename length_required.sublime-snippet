@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:length_required
+]]></content>
+  <tabTrigger>s411</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

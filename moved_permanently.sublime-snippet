@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:moved_permanently
+]]></content>
+  <tabTrigger>s301</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:partial_content
+]]></content>
+  <tabTrigger>s206</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

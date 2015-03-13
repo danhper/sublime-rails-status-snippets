@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:network_authentication_required
+]]></content>
+  <tabTrigger>s511</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

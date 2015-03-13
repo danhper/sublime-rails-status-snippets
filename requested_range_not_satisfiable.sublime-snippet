@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+:requested_range_not_satisfiable
+]]></content>
+  <tabTrigger>s416</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>
